@@ -1,0 +1,10 @@
+.inp{
+    outline: none;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    border-radius: 15px;
+    font-size: larger;
+    margin-bottom: 3rem;
+    margin-right: 10px;
+}
